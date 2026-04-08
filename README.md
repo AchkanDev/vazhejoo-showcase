@@ -37,8 +37,8 @@
 
 ## 🔗 Store Links
 
-- CafeBazaar: (coming soon)
-- Myket: (coming soon)
+- CafeBazaar: —
+- Myket: —
 
 ---
 
