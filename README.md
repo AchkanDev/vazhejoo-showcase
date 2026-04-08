@@ -38,7 +38,7 @@
 ## 🔗 Store Links
 
 - CafeBazaar: —
-- Myket: —
+- Myket: https://myket.ir/app/com.achkandev.vazhejoo
 
 ---
 
